@@ -1,0 +1,19 @@
+p0=0.300310  p1=0.699689 ----pop 16 
+
+
+p0=0.719888  p1=0.280111 ---pop 17 
+
+
+#######Posterior medians ind_estimation
+
+pop16======0.394924 
+
+pop17========0.611105
+
+
+
+#######Posterior medians hie estimation
+
+pop 16====0.577150 
+
+pop17=====0.561219
